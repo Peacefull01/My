@@ -27,7 +27,7 @@ const Header = () => {
                 <i className="header-toggle d-xl-none bi bi-list"></i>
 
                 <div className="profile-img">
-                    <img src="/img/profile.jpg" alt="" className="img-fluid rounded-circle"/>
+                    <img src="./assets/img/profile.jpg" alt="" className="img-fluid rounded-circle"/>
                 </div>
 
                 <a href="index.html" className="logo d-flex align-items-center justify-content-center">
