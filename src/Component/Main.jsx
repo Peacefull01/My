@@ -7,9 +7,9 @@ const Main = () => {
 
 
             <section className="hero section dark-background">
-                <img src="/img/bgga.png" alt="" className='position-absolute z-2' width={'300px'}/>
+                <img src="/assets/img/bgga.png" alt="" className='position-absolute z-2' width={'300px'}/>
                 <p className="inner-img text-end">
-                    <img  src="/img/final.png"  alt="" width={'400px'} className="ms-5  " />
+                    <img  src="/assets/img/final.png"  alt="" width={'400px'} className="ms-5  " />
                 </p>
                 <div className="container text-center bgg" data-aos="fade-up" data-aos-delay="100">
                     <h2>Priyanka Sharma</h2>
